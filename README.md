@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=242426&background=A6C0D9&center=true&vCenter=true&random=false&width=400&height=70&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Fabr%C3%ADcio+Diniz;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg) -->
 
-<h1>Olá 😃, seja bem-vindo ao meu perfil!</h1>
+<h1>Olá, seja bem-vindo ao meu perfil!</h1>
 
 <div style="display: inline_block"><br/>
     <h2>Tecnologias que uso no meu dia</h2>
